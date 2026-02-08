@@ -1,0 +1,57 @@
+{
+  "Technology": [
+    "AAPL", "MSFT", "NVDA", "GOOGL", "META",
+    "AVGO", "ORCL", "CSCO", "ADBE", "CRM",
+    "INTC", "AMD", "QCOM", "TXN", "AMAT"
+  ],
+  "Financials": [
+    "JPM", "BAC", "WFC", "GS", "MS",
+    "C", "BLK", "SCHW", "AXP", "SPGI",
+    "USB", "PNC", "TFC", "BK", "COF"
+  ],
+  "Healthcare": [
+    "UNH", "JNJ", "LLY", "ABBV", "MRK",
+    "PFE", "TMO", "ABT", "CVS", "DHR",
+    "AMGN", "BMY", "MDT", "GILD", "CI"
+  ],
+  "Consumer Discretionary": [
+    "AMZN", "TSLA", "HD", "MCD", "NKE",
+    "LOW", "SBUX", "TGT", "TJX", "BKNG",
+    "CMG", "MAR", "F", "GM", "ABNB"
+  ],
+  "Energy": [
+    "XOM", "CVX", "COP", "SLB", "EOG",
+    "PXD", "MPC", "PSX", "VLO", "OXY",
+    "WMB", "KMI", "HAL", "BKR", "HES"
+  ],
+  "Industrials": [
+    "GE", "CAT", "HON", "UNP", "RTX",
+    "BA", "LMT", "UPS", "DE", "MMM",
+    "GD", "NOC", "FDX", "NSC", "ETN"
+  ],
+  "Materials": [
+    "LIN", "APD", "SHW", "ECL", "FCX",
+    "NEM", "DOW", "DD", "NUE", "VMC",
+    "MLM", "PPG", "CTVA", "ALB", "IFF"
+  ],
+  "Real Estate": [
+    "PLD", "AMT", "EQIX", "SPG", "PSA",
+    "O", "WELL", "DLR", "CBRE", "AVB",
+    "EQR", "VICI", "VTR", "ARE", "INVH"
+  ],
+  "Utilities": [
+    "NEE", "DUK", "SO", "D", "AEP",
+    "EXC", "SRE", "XEL", "WEC", "ED",
+    "ES", "DTE", "PEG", "FE", "EIX"
+  ],
+  "Communication Services": [
+    "GOOG", "NFLX", "DIS", "CMCSA", "VZ",
+    "T", "TMUS", "CHTR", "EA", "ATVI",
+    "TTWO", "OMC", "IPG", "NWSA", "FOXA"
+  ],
+  "Consumer Staples": [
+    "WMT", "PG", "KO", "PEP", "COST",
+    "PM", "MO", "MDLZ", "CL", "KMB",
+    "GIS", "KHC", "HSY", "STZ", "KR"
+  ]
+}
